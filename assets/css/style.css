@@ -1,3 +1,32 @@
-body .container-fluid {
-    background-color: aquamarine;
- }
+.navbar{
+    background-color: transparent !important;
+    position: fixed;
+    z-index: 2;
+}
+.body{
+    background-color: black !important;
+}
+.image-card {
+    width: 100% !important;
+    height: 202px !important;
+}
+.carousel-inner{
+    height: 100vh;
+}
+.bg-green{
+    background-color: #27d2df;
+}
+.quienes-somos{
+    border-bottom: 2px solid #1187ee ;
+    color: blanchedalmond;
+}
+.container{
+    color: blanchedalmond !important;
+}
+.card{
+    background-color: #1187ee;
+    color: blanchedalmond !important;
+}
+.grilla{
+    color:#1187ee !important;
+}
